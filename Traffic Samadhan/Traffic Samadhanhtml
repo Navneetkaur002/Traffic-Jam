@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Samadhan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Traffic Samadhan Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#complaint">Complaint Box</a></li>
+                <li><a href="#advisory">Advisory</a></li>
+                <li><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835434509123!2d144.9537353153163!3d-37.81627997975157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11f3b3%3A0x5045675218ceed30!2sMelbourne%20CBD%2C%20Melbourne%20VIC%2C%20Australia!5e0!3m2!1sen!2sus!4v1616161616161!5m2!1sen!2sus"  action="parking">Parking</a>
+                    </li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#feedback">Feedback</a></li>
+                <li><a href="#login">Login</a></li>
+            </ul>
+
+       
+    </div>
+   
+           
+           
+</div>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="welcome">
+            <h1>Welcome to Traffic Samadhan</h1>
+            <p>Your one-stop solution for traffic management and assistance.</p>
+        </section>
+        <img src="traffic solution.jpg">
+        <section class="info-container">
+            <div class="info-box">
+                <h2>Features</h2>
+                <p>Real-time traffic updates, route optimization, and accident alerts.</p>
+            </div>
+            <div class="info-box">
+                <h2>Our Mission</h2>
+                <p>To enhance road safety and improve traffic flow through innovative solutions.</p>
+            </div>
+            <div class="info-box">
+                <h2>Feedback</h2>
+                <p>We value your feedback! Share your thoughts to help us improve.</p>
+            </div>
+            <div class="info-box">
+                <h2>Support</h2>
+                <p>Need assistance? Our support team is here to help you.</p>
+            </div>
+        </section>
+        <section class="comment-section">
+            <h2>"Facing Traffic Troubles? Share Your Problem – We’ll Engineer the Solution!"
+
+                <p>🔹 Tell us the traffic challenges you face</p>
+                <p>🔹 We analyze and innovate to provide the best solution.</p>
+                <p>🔹 Your input helps us improve our software for a smoother journey.</p></h2>
+            
+                <form id="commentForm">
+            
+                <div class="form-group">
+
+                    <label for="comment">Comment:</label>
+                    <textarea id="comment" name="comment" rows="4" required></textarea>
+                </div>
+                <button type="submit"  class="submit-button">Submit</button>
+            </form>
+            <div class="comments-list">
+                
+                <ul id="comments">
+                    
+                </ul>
+            </div>
+    
+        </section>
+        <h3 class="challenge">"Your Challenges, Our Solutions – Powering Progress Together!"</h3>
+       
+        <section>
+            <h3 class="thankyou">>>> THANKYOU FOR VISITING <<<</h3>
+        </section>
+
+</div>
+    </main> 
+    <footer>
+        <p>&copy; 2023 Traffic Samadhan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
